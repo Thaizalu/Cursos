@@ -11,20 +11,19 @@ Este espaço está sendo construído conforme avanço nos cursos e projetos prá
 
 ## 👩‍💻 Sobre Mim
 
-Meu nome é **Thaiza Ludmila Bueno da Silva** e estou em processo de formação na área de Inteligência Artificial, com foco em aplicações práticas, automação inteligente e projetos de aprendizado de máquina.
+Meu nome é **Thaiza Ludmila** e estou em processo de formação na área de Inteligência Artificial, com foco em aplicações práticas, automação inteligente e projetos de aprendizado de máquina.
 
 ---
 
-## 📚 Cursos e Tópicos
+## 📓 Notebooks disponíveis
 
-Abaixo você encontrará os notebooks organizados por tema, curso ou módulo:
+Aqui estão os notebooks dos cursos realizados, organizados por tema. Clique no botão para abri-los diretamente no Google Colab.
 
-- `curso-nome-do-curso-1/` → Introdução à IA
-- `curso-nome-do-curso-2/` → Machine Learning aplicado
-- `projetos/` → Projetos práticos com dados reais
-- `experimentos/` → Testes e experimentações diversas
+### 📘 Fundamentos de Inteligência Artificial
 
-*(Os diretórios serão atualizados conforme novos conteúdos forem adicionados.)*
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Thaizalu/Cursos/blob/main/fundamentos_de_ia.ipynb)
+
+
 
 ---
 
